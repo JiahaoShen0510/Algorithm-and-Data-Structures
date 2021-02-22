@@ -1,4 +1,4 @@
-The collection of algorithm and data structures solutions that implemented with the JavaScript
+The collection of algorithm and data structures solutions that implemented with the JavaScript.
 
 Solution Summary:
 
