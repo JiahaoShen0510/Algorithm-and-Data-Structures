@@ -7,3 +7,6 @@ Calculate the number that add from 1 to the n, and only add all even or odd numb
 
 ### Calculate Character:
 Calculate the frequencies of every character and number in the given paragraph. 
+
+### Check Same Frequency:
+Check if two arrays are in the same frequency, which the numbers in first array should exactly match the squared numbers in second array. 
