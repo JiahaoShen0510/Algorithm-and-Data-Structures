@@ -12,4 +12,7 @@ Calculate the frequencies of every character and number in the given paragraph.
 Check if two arrays are in the same frequency, which the numbers in first array should exactly match the squared numbers in second array. 
 
 ### 04) Anagram Game:
-Check if two words are complied with the Anagram rule, which they should have exactly the same characters but in different orders. Only the alphabets are allowed. 
+Check if two words are complied with the Anagram rule, which they should have exactly the same characters but in different orders. Only the alphabets are allowed.
+
+### 05) Find First Pair Sum Zero
+Sort the given array of numbers and identify the first pair that sum up at zero, which usually will be the pair of negative and positive numbers have the same absolute value. 
