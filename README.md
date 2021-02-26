@@ -20,6 +20,6 @@ Sort the given array of numbers and identify the first pair that sum up at zero,
 ### 06) Count Unique Value in Sorted Array:
 Sort the given array of numbers and count the all unique values in it. 
 
-### 07) Max Value of Subarray:
+### 07) Max Value of Contiguous Subarray:
 Calculate the maximum values of a subarray, which the size of subarray is determined by the given dimension that should lower than the length of whole array. 
 
