@@ -23,6 +23,6 @@ Sort the given array of numbers and count the all unique values in it.
 ### 07) Max Value of Contiguous Subarray in Given Number:
 Calculate the maximum values of a contiguous subarray, which the size of subarray is determined by the given dimension that should lower than the length of whole array. 
 
-### 08) Minimum Length Contiguous Subarray with Given Number:
+### 08) Minimum Length Contiguous Subarray in Given Number:
 Calculate the minimum length of contiguous subarray which the sum of values greater or equal to the given number. 
 
