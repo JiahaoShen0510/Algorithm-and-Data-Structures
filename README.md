@@ -26,3 +26,6 @@ Calculate the maximum values of a contiguous subarray, which the size of subarra
 ### 08) Minimum Length Contiguous Subarray in Given Number:
 Calculate the minimum length of contiguous subarray which the sum of values greater or equal to the given number. 
 
+### 09) Calculate Longest Length of Contiguous Strings:
+Calculate the longest length of contiguous unique strings in the given word. 
+
