@@ -29,3 +29,6 @@ Calculate the minimum length of contiguous subarray which the sum of values grea
 ### 09) Calculate Longest Length of Contiguous Strings:
 Calculate the longest length of contiguous unique strings in the given word. 
 
+### 10) Rotate Array from Right in Given Number:
+Rotate the order of numbers in a array from right to left, which the numbers rotated will be determined by the given number. 
+
